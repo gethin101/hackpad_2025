@@ -41,11 +41,11 @@ It features:
 | Part | Quantity | Description | 
 |------|----------|-------------|
 | Mechanical Key Switches | 9 | MX-style switches |
-| Keycaps | 9 | Compatible with MX switches | 
+| Cherry Keycaps | 9 | Compatible with MX switches | 
 | Seeed XIAO RP2040 | 1 | Microcontroller | 
 | OLED Display 0.91" | 1 | I2C interface | 
-| PCB | 1 | Custom-designed | 
-| Case | 1 | 3D printed or laser cut | 
+| PCB | 1 | Double-sided | 
+| Case | 1 | 3D printed | 
 
 
 ---
