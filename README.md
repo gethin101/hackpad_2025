@@ -14,25 +14,31 @@ It features:
 
 ## 📸 Hackpad Overview
 ![Hackpad Screenshot](images/hackpad-overview.png)  
-*Add a screenshot of your overall Hackpad here.*
+
+*This is the overview of my hackpad which shows how it should be all put together*
 
 ---
 
 ## 🔌 Schematic
-![Schematic Screenshot](images/schematic.png)  
-*Add a screenshot of your schematic here.*
+![Schematic Screenshot](images/schematic.png) 
+
+*This is my schematic showing which components I'm using and how they are wired*
 
 ---
 
 ## 🖥️ PCB Layout
 ![PCB Screenshot](images/pcb.png)  
-*Add a screenshot of your PCB design here.*
+
+*PCB design showing placement and copper connections*
 
 ---
 
 ## 🧩 Case Design
-![Case Screenshot](images/case.png)  
-*Add a screenshot of your case and how it fits together here.*
+![Case Screenshot](images/case.png)
+
+![Case Screenshot](images/case.png)
+
+*Base & cover designed in Fusion360*
 
 ---
 
