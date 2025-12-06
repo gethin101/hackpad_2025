@@ -68,3 +68,8 @@ Libraries:
 2. Copy displayio, display_text, debouncer & hid to the MCU
 3. Upload the `code.py` to the XIAO
 4. Test
+
+
+## 📝 License
+This project is open-source under the MIT License.
+
