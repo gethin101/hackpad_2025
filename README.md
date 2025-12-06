@@ -3,7 +3,8 @@
 # Gethin HackPad v1
 
 This repository contains all files for my **AMD x HackClub Macropad** project.  
-The macropad is designed for computer shortcuts, Python programming, and game controlling.  
+The macropad is designed for computer shortcuts, python programming, and game controlling.  
+
 It features:
 - 3x3 mechanical keys
 - 0.91" OLED display
