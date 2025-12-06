@@ -43,6 +43,7 @@ It features:
 ---
 
 ## 📦 Bill of Materials (BOM)
+List of all parts used in my hackpad
 
 | Part | Quantity | Description | 
 |------|----------|-------------|
@@ -55,3 +56,15 @@ It features:
 
 
 ---
+
+## Firmware Instructions:
+
+1. Download & install CircuitPython .uf2
+2. Connect the Seeed XIAO RP2040 via USB and enter bootloader mode
+3. Flash the MCU with the .uf2
+
+#Libraries:
+1. Download CircuitPython library bundle & unzip
+2. Copy displayio, display_text, debouncer & hid to the MCU
+3. Upload the `code.py` to the XIAO
+4. Test
