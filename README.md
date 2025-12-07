@@ -24,19 +24,19 @@ This is the overview of my hackpad assembled in Fusion 360 which shows how it sh
 ## 🔌 Schematic
 ![Schematic Screenshot](Images/schematic.png) 
 
-This is my schematic showing which components I'm using and how they are wired
+This is my schematic that I designed in KiCad showing which components I'm using and how are connected. As you can see, each key switch is wired seperately to the RP2040
 
 ---
 
 ## 🖥️ PCB Layout
-![PCB Screenshot](images/pcb.png)  
+![PCB Screenshot](Images/pcb.png)  
 
-PCB design showing placement and copper connections
+PCB design showing placement and copper wires
 
 ---
 
 ## 🧩 Case Design
-![Case Screenshot](images/case.png)
+![Case Screenshot](Images/case.png)
 
 ![Case Screenshot](images/case.png)
 
