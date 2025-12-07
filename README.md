@@ -29,7 +29,7 @@ This is my schematic that I designed in KiCad showing which components I'm using
 ---
 
 ## 🖥️ PCB Layout
-<img src="Images/pcb.png" alt="PCB Screenshot" width="700">
+<img src="Images/pcb.png" alt="PCB Screenshot" width="500">
 
 PCB design showing placement and copper wires
 
