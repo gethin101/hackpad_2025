@@ -22,7 +22,7 @@ This is the overview of my hackpad assembled in Fusion 360 which shows how it sh
 ---
 
 ## 🔌 Schematic
-![Schematic Screenshot](images/schematic.png) 
+![Schematic Screenshot](Images/schematic.png) 
 
 This is my schematic showing which components I'm using and how they are wired
 
