@@ -13,10 +13,10 @@ It features:
 ---
 
 ## 📸 Hackpad Overview
+
+This is the overview of my hackpad assembled in Fusion 360 which shows how it should be all put together
 <img src="Images/hackpad-overview.png" alt="Hackpad Screenshot" width="600">
 
-
-This is the overview of my hackpad which shows how it should be all put together
 
 ---
 
