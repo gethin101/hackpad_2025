@@ -13,7 +13,8 @@ It features:
 ---
 
 ## 📸 Hackpad Overview
-![Hackpad Screenshot](Images/hackpad-overview.png)  
+<img src="Images/hackpad-overview.png" alt="Hackpad Screenshot" width="300">
+
 
 This is the overview of my hackpad which shows how it should be all put together
 
