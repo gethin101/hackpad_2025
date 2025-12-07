@@ -70,7 +70,7 @@ List of all parts used in my hackpad:
 
 Libraries:
 1. Download CircuitPython library bundle & unzip
-2. Copy displayio, display_text, debouncer & hid to the MCU
+2. Copy displayio, display_text, debouncer & HID to the MCU
 3. Upload the `code.py` to the XIAO
 4. Test
 
