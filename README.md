@@ -24,7 +24,7 @@ This is the overview of my hackpad assembled in Fusion 360 which shows how it sh
 ## 🔌 Schematic
 ![Schematic Screenshot](Images/schematic.png) 
 
-This is my schematic that I designed in KiCad showing which components I'm using and how are connected. As you can see, each key switch is wired seperately to the RP2040
+This is my schematic that I designed in KiCad showing which components I'm using and how they are connected. As you can see, each key switch is wired seperately to the RP2040 and the OLED is orded in GND-VCC-SCL-SDA so that it is compatible with the 0.91" display sent by HackClub
 
 ---
 
