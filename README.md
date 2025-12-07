@@ -39,7 +39,7 @@ This is my PCB layout that I designed in the KiCad PCB Designer. It shows all of
 
 ## 🧩 Case Design
 
-![Case Screenshot](Images/case_bottom.png)
+![Case Screenshot](Images/case_base.png)
 
 ![Case Screenshot](images/case_cover.png)
 
