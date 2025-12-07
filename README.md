@@ -42,9 +42,7 @@ This is my PCB layout that I designed in the KiCad PCB Designer. It shows all of
 <img src="Images/case_base.png" alt="Case base fusion" width="500">
 <img src="Images/case_cover.png" alt="Case cover fusion" width="500">
 
-
-
-Base & cover designed in Fusion360
+I designed the base & cover in Fusion 360 using the measurements from my PCB in KiCad, and I imported all the 3D models in to test-fit all of them together
 
 ---
 
