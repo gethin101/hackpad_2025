@@ -57,7 +57,7 @@ List of all parts used in my hackpad:
 | Seeed XIAO RP2040 | 1 | Microcontroller | 
 | OLED Display 0.91" | 1 | I2C interface | 
 | PCB | 1 | Double-sided | 
-| Case | 1 | 3D printed | 
+| Case | 1 | 3D printed (prob PLA)| 
 
 
 ---
