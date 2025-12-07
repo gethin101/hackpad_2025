@@ -38,9 +38,10 @@ This is my PCB layout that I designed in the KiCad PCB Designer. It shows all of
 ---
 
 ## 🧩 Case Design
-![Case Screenshot](Images/case.png)
 
-![Case Screenshot](images/case.png)
+![Case Screenshot](Images/case_bottom.png)
+
+![Case Screenshot](images/case_cover.png)
 
 Base & cover designed in Fusion360
 
