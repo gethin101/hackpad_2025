@@ -31,7 +31,7 @@ This is my schematic that I designed in KiCad showing which components I'm using
 ## 🖥️ PCB Layout
 <img src="Images/pcb.png" alt="PCB Screenshot" width="500">
 
-This is my PCB layout that I designed in the KiCad PCB Designer. It shows how all of the component placement and copper wiring so I can visualise all the connections
+This is my PCB layout that I designed in the KiCad PCB Designer. It shows all of the component placement and copper wiring so I can visualise all the connections. I also added some customisation on the silkscreen such as a link to this github repository & the name of my Hackpad
 
 ---
 
