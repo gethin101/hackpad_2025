@@ -59,6 +59,15 @@ List of all parts used in my hackpad:
 | PCB | 1 | Double-sided | 
 | Case | 1 | 3D printed (prob PLA)| 
 
+---
+
+## Cart Screenshots
+
+<img src="Images/cart1.png" alt="cart screenshot" width="500">
+<img src="Images/cart2.png" alt="cart screenshot" width="500">
+<img src="Images/cart3.png" alt="cart screenshot" width="500">
+<img src="Images/cart4.png" alt="cart screenshot" width="500">
+<img src="Images/cart5.png" alt="cart screenshot" width="500">
 
 ---
 
