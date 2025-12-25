@@ -61,16 +61,6 @@ List of all parts used in my hackpad:
 
 ---
 
-## Cart Screenshots
-
-<img src="Images/cart1.png" alt="cart screenshot" width="500">
-<img src="Images/cart2.png" alt="cart screenshot" width="500">
-<img src="Images/cart3.png" alt="cart screenshot" width="500">
-<img src="Images/cart4.png" alt="cart screenshot" width="500">
-<img src="Images/cart5.png" alt="cart screenshot" width="500">
-
----
-
 ## Firmware Instructions:
 
 1. Download & install CircuitPython .uf2
