@@ -10,6 +10,9 @@ It features:
 - 0.91" OLED display
 - Powered by a Seeed XIAO RP2040 microcontroller
 
+Build image:
+<img src="Images/hackpad_built.jpeg" alt="Hackpad build image" width="600">
+
 ---
 
 ## 📸 Hackpad Overview
