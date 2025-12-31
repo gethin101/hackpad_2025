@@ -13,6 +13,9 @@ It features:
 Build image:
 
 <img src="Images/hackpad_built.jpeg" alt="Hackpad build image" width="600">
+<img src="Images/soldering.jpeg" alt="Hackpad build image" width="600">
+<img src="Images/xiao.jpeg" alt="Hackpad build image" width="600">
+<img src="Images/code.png" alt="Hackpad build image" width="600">
 
 
 ---
