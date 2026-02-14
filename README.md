@@ -10,12 +10,6 @@ It features:
 - 0.91" OLED display
 - Powered by a Seeed XIAO RP2040 microcontroller
 
-Build image:
-
-<img src="Images/hackpad_built.jpeg" alt="Hackpad build image" width="600">
-<img src="Images/soldering.jpeg" alt="Hackpad build image" width="300">
-<img src="Images/xiao.jpeg" alt="Hackpad build image" width="300">
-<img src="Images/code.png" alt="Hackpad build image" width="300">
 
 
 ---
@@ -44,6 +38,14 @@ This is my PCB layout that I designed in the KiCad PCB Designer. It shows all of
 
 
 ---
+
+Build image:
+
+<img src="Images/hackpad_built.jpeg" alt="Hackpad build image" width="600">
+<img src="Images/soldering.jpeg" alt="Hackpad build image" width="300">
+<img src="Images/xiao.jpeg" alt="Hackpad build image" width="300">
+<img src="Images/code.png" alt="Hackpad build image" width="300">
+
 
 ## 🧩 Case Design
 
