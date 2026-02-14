@@ -20,6 +20,8 @@ This is the overview of my hackpad assembled in Fusion 360 which shows how it sh
 
 <img src="Images/hackpad-overview.png" alt="Hackpad Screenshot" width="600">
 
+Demo video: [link](https://drive.google.com/file/d/1SN6_Jn4tApgLRpyzZipDD-V8Z1X3xwi7/view)
+
 
 ---
 
